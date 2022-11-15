@@ -5,3 +5,6 @@ Fourth line
 
 New commit 1
 New commit 2
+
+Another commit3
+Another commit4
